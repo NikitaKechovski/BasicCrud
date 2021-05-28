@@ -1,7 +1,6 @@
 index:
    path: /
-    controller: App\Controller\ArticleController::index
- #the "app_lucky_number" route name is not important yet
+   controller: App\Controller\ArticleController::index
 
 app_lucky_number:
   path: /lucky/number
